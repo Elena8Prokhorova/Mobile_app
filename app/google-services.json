@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622371868650",
+    "project_id": "it-dragon-f7c11",
+    "storage_bucket": "it-dragon-f7c11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622371868650:android:4b286cff7f592becf9ac93",
+        "android_client_info": {
+          "package_name": "com.example.lr1_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6A5yg5EJ62W3ML5TMtYXHMLW3HXK9R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
